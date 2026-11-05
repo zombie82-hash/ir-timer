@@ -1,0 +1,27 @@
+{
+  "name": "설치 보고서 생성기 (측정용)",
+  "short_name": "설치보고서",
+  "description": "현장 메모를 정형 설치 보고서로 바꾸고 작성 시간을 측정하는 도구 v0.2.1",
+  "lang": "ko",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#101418",
+  "background_color": "#101418",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
