@@ -1,9 +1,9 @@
-/* 설치 보고서 생성기 v0.2.1 — Service Worker (앱 셸 캐시)
+/* 설치 보고서 생성기 v0.2.2 — Service Worker (앱 셸 캐시)
  *
  * 갱신 방법: 아래 VERSION 문자열을 직접 올린다(자동 생성·해시 없음).
  * 예) 'v0.2.1-1' → 'v0.2.1-2'
  */
-const VERSION = 'v0.2.1-1';
+const VERSION = 'v0.2.2-1';
 const CACHE = 'ir-shell-' + VERSION;
 
 /* install 에서 미리 받아 둘 앱 셸 */
